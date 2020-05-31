@@ -11,7 +11,7 @@ class SearchViewController: UITableViewController, UISearchResultsUpdating {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        self.title = "Stock Tax Calculator"
+        self.title = "Stock Symbol Lookup"
     }
 
     override func viewDidLoad() {
